@@ -55,7 +55,7 @@ exports.commands = {
 					"<li>/nom (nomination) - This will nominate your choice of the day; only do this once, please.</li>" +
 					"<li>/winner - This allows you to see who the current Artist of the Day is.</li>" +
 					"<li>/winner (artist) - Sets the winner of the day. (requires %, @, #)</li>" +
-					"<li>/startnoms - Will start AOTD (requires %, @, #)</li>" +
+					"<li>/startnoms - Will start nominations (requires %, @, #)</li>" +
 					"<li>/endnoms - Will turn off the use of /noms, ending nominations. (requires %, @, #)</li>" +
 				'</ul>' +
 			'</p>'
